@@ -1,0 +1,8 @@
+{
+  "name": "Multi-Agent Creative Studio",
+  "description": "A collaborative AI studio that simulates team dynamics using specialized agents (Idea, Critic, Refiner, Presenter) to generate and polish high-impact concepts for ESG, agriculture, and innovation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
