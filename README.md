@@ -1,8 +1,8 @@
-<div align="center">
+ite<div align="center">
 <h1> TechSprint </h1>
 </div>
 
-# Run and deploy your w
+# Run and deploy your website
 
 This contains everything you need to run your app locally.
 
